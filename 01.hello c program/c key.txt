@@ -1,0 +1,19 @@
+int float sizeof #pragma long acos strstr array signed unsigned auto break case	char
+const bool char signed short printf unsigned char signed char signal sin int #ifndef
+unsigned int ispunct realloc isprint pow sinh mktime toupper tolower #include short 
+#undef putc fwrite unsigned short int default do fputs perror setjmp labs strchr 
+vprintf tanh ungetc va_arg time log natural log10 system memcmp tan tmpfile setlocale
+fsetpos	signed long unsigned long int strtoul ftell iscntrl abort double static #if signed int
+long double sqrt ldexp malloc perror getc wchar_t isxdigit modf continue #else createCircle()	
+atexit fscanf double if else strtod enum extern atoi float for goto fprintf strcat sprintf	
+asctime	isdigit asin #pragma assert atan fgetc atan2 register	return strtol
+short sizeof floor static memmove putchar localtime setvbuf ldiv puts memcpy raise rand
+struct switch #error typedef union void volatile while #ifdef #elif, #endif
+getenv functionName(); feof strcmp #line calloc getchar exp strcoll atof fclose fread 
+isalpha free strcpy ceil divstrcspn strerror fputc fseek islower clock abs fflush 
+strftime strlen cosh strncat strncmp cosstrncpy	strpbrk atol frexp strspn strtok
+strxfrm exit clearerr fabs gets fmod system color()main() fopen for else while automatic
+external freopen display() global variable bsearch element malloc() NULL 
+ctime strrchr difftime realloc() sizeof() #define remove sscanf rename vsprintf rewind
+fgets scanf vfprintf setbuf fgetpos gmtime isalnum longjmp isgraph tmpnam memchr qsort 
+srand memset isspace isuppe
