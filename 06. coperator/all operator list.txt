@@ -1,0 +1,103 @@
+
+The C language supports the following type of operators:
+
+Arithmetic operators
+Assignment operators
+Relational operators
+Logical operators
+unary operator
+Bitwise operators
+Ternary operator
+Special operators like sizeof, &, *, . (dot) operator, -> (arrow) operator, [] (square bracket) operator, etc.
+
+======================================================================================================================
+C Arithmetic Operators
+
++	addition or unary plus
+-	subtraction or unary minus
+*	multiplication
+/	division
+%	remainder after division (modulo division)
+
+
+======================================================================================================================
+C Assignment Operators
+
+=	a = b	a = b
++=	a += b	a = a+b
+-=	a -= b	a = a-b
+*=	a *= b	a = a*b
+/=	a /= b	a = a/b
+%=	a %= b	a = a%b
+
+======================================================================================================================
+
+C Relational Operat
+
+==	Equal to	5 == 3 is evaluated to 0
+>	Greater than	5 > 3 is evaluated to 1
+<	Less than	5 < 3 is evaluated to 0
+!=	Not equal to	5 != 3 is evaluated to 1
+>=	Greater than or equal to	5 >= 3 is evaluated to 1
+<=	Less than or equal to	5 <= 3 is evaluated to 0
+
+======================================================================================================================
+C Logical Operators
+
+
+&&	Logical AND.  True only if all operands are true	If c = 5 and d = 2 then, expression ((c==5) && (d>5)) equals to 0.
+||	Logical OR.   True only if either one operand is true	If c = 5 and d = 2 then, expression ((c==5) || (d>5)) equals to 1.
+!	Logical NOT.  True only if the operand is 0	        If c = 5 then, expression !(c==5) equals to 0.
+
+
+======================================================================================================================
+
+
+C unary operator
+
++   unary plus
+-   unary minus
+++a	Prefix increment
+a++	Postfix increment
+--a	Prefix decrement
+a--	Postfix decrement
+
+
+======================================================================================================================
+
+C Bitwise Operators
+
+&	Bitwise AND
+|	Bitwise OR
+^	Bitwise exclusive OR
+~	Bitwise complement
+<<	Shift left
+>>	Shift right
+
+======================================================================================================================
+
+ternary operator
+
+?:	Ternary conditional	right-to-left
+======================================================================================================================
+
+C Special Operator - &, *, sizeof, etc.
+
+()	Parentheses (function call)	left-to-right
+[]	Brackets (array subscript)	 
+->	Member selection via a pointer	 	
+sizeof  operator Determine size in bytes on this implementation	
+&       operator Address (of operand)	
+*       operator Dereference
+.       (dot) and -> (arrow) operators Member selection via object name
+,	expression separator	left-to-right
+
+
+======================================================================================================================
+
+
+ 
+ 
+ 
+
+
